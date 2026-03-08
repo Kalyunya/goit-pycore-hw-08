@@ -1,0 +1,12 @@
+﻿# Virtual environment
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Tests / tools
+.pytest_cache/
